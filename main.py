@@ -1,5 +1,4 @@
 import logging
-from idlelib.iomenu import encoding
 
 from bot.bot_vk import VKBot
 from bot.config import TOKEN

@@ -2,8 +2,6 @@ import logging
 import time
 from random import randint
 
-from pyexpat.errors import messages
-
 
 class MessageHandler:
     def __init__(self, vk):
